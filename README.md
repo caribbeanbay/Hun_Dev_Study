@@ -8,6 +8,7 @@
 - 4L 회고를 통한 꾸준한 성장 기록
 
 ## 🗂️ 구조
+\```
 Hun_Dev_Study/
 ├── Python/
 │   ├── Level1/
@@ -15,10 +16,11 @@ Hun_Dev_Study/
 │   │       ├── problem.md
 │   │       ├── solution.py
 │   │       └── 4L.md
-│   ├── Level2/ ~ Level5/
+│   └── Level2/ ~ Level5/
 ├── Cpp/
 ├── Java/
 └── C/
+\```
 
 ## 📊 진행 현황
 | 언어 | Level1 | Level2 | Level3 | Level4 | Level5 |
