@@ -1,6 +1,6 @@
-# 신호등 (Programmers - Level ?)
+# 노란불 신호등 (Programmers - Level 1)
 
-**출처:** 프로그래머스 | **링크:** [문제 링크]
+**출처:** 프로그래머스 | **링크:** [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/468371)
 
 ---
 

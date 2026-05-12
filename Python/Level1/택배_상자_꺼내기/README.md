@@ -1,4 +1,10 @@
-# 택배 상자 꺼내기
+# 택배 상자 꺼내기 (Programmers - Level 1)
+
+**출처:** 프로그래머스 | **링크:** [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389478)
+
+---
+
+## 문제 설명
 
 1 ~ n의 번호가 있는 택배 상자가 창고에 있습니다. 당신은 택배 상자들을 다음과 같이 정리했습니다.
 
